@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @TreecraftStudios (ObliviozMC)
-- 👀 I’m interested in Programing stuff.
-- 🌱 I’m currently learning JS, JAVA BIANARY, HTML
-- 💞️ I’m looking to collaborate on TCLX Dev
-- 📫 How to reach me You can't unless I am the one solvong you're report ticket.
+Version 9.3.2
 
-<!---
-TreecraftStudios/TreecraftStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Recent Public Changes,
+
+Reloaded treecraft.serv.gs servers (12:25 Pacific)
+Fixed bug while accesing Files on MyServ.
+Changed World Size on project MCJS (treecraft.serv.gs/mc)
